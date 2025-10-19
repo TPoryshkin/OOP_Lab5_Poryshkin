@@ -1,0 +1,14 @@
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\OOP_Lab5_Poryshkin\obj\Debug\net8.0\OOP_Lab5_Poryshkin.GeneratedMSBuildEditorConfig.editorconfig
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\OOP_Lab5_Poryshkin\obj\Debug\net8.0\OOP_Lab5_Poryshkin.AssemblyInfoInputs.cache
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\OOP_Lab5_Poryshkin\obj\Debug\net8.0\OOP_Lab5_Poryshkin.AssemblyInfo.cs
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\OOP_Lab5_Poryshkin\obj\Debug\net8.0\OOP_Lab5_Poryshkin.csproj.CoreCompileInputs.cache
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\OOP_Lab5_Poryshkin\bin\Debug\net8.0\OOP_Lab5_Poryshkin.exe
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\OOP_Lab5_Poryshkin\bin\Debug\net8.0\OOP_Lab5_Poryshkin.deps.json
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\OOP_Lab5_Poryshkin\bin\Debug\net8.0\OOP_Lab5_Poryshkin.runtimeconfig.json
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\OOP_Lab5_Poryshkin\bin\Debug\net8.0\OOP_Lab5_Poryshkin.dll
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\OOP_Lab5_Poryshkin\bin\Debug\net8.0\OOP_Lab5_Poryshkin.pdb
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\OOP_Lab5_Poryshkin\obj\Debug\net8.0\OOP_Lab5_Poryshkin.dll
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\OOP_Lab5_Poryshkin\obj\Debug\net8.0\refint\OOP_Lab5_Poryshkin.dll
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\OOP_Lab5_Poryshkin\obj\Debug\net8.0\OOP_Lab5_Poryshkin.pdb
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\OOP_Lab5_Poryshkin\obj\Debug\net8.0\OOP_Lab5_Poryshkin.genruntimeconfig.cache
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\OOP_Lab5_Poryshkin\obj\Debug\net8.0\ref\OOP_Lab5_Poryshkin.dll

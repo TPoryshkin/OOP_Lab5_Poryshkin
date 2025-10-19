@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Lab5_Poryshkin", "OOP_Lab5_Poryshkin.csproj", "{D53E3BAC-1A50-41DF-AD7B-740040398DC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantTests", "..\PlantTests\PlantTests.csproj", "{BF99E542-85F8-4666-9254-739CF3D14623}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D53E3BAC-1A50-41DF-AD7B-740040398DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53E3BAC-1A50-41DF-AD7B-740040398DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53E3BAC-1A50-41DF-AD7B-740040398DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53E3BAC-1A50-41DF-AD7B-740040398DC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF99E542-85F8-4666-9254-739CF3D14623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF99E542-85F8-4666-9254-739CF3D14623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF99E542-85F8-4666-9254-739CF3D14623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF99E542-85F8-4666-9254-739CF3D14623}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08C4FDDE-6675-459D-9787-2517C330DAB7}
+	EndGlobalSection
+EndGlobal

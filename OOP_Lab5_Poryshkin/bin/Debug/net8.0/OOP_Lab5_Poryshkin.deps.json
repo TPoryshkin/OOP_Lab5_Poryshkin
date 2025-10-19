@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OOP_Lab5_Poryshkin/1.0.0": {
+        "runtime": {
+          "OOP_Lab5_Poryshkin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP_Lab5_Poryshkin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
